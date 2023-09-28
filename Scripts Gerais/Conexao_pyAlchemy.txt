@@ -1,0 +1,15 @@
+import pandas as pd
+from sqlalchemy import create_engine
+import xml.etree.ElementTree as et
+
+Server = 'DESKTOP-LM222JM\SQLEXPRESS'
+Database = 'AdventureWorks2017'
+Driver = 'ODBC Driver 17 for SQL Server'
+
+engine = create_engine(f'mssql+pyodbc://{Server}/{Database}?trusted_connection=yes&driver=ODBC+Driver+17+for+SQL+Server')
+connection = engine.connect()
+
+df = pd.read_sql("select * from HumanResources.Department", connection, index_col='DepartmentID')
+pd.DataFrame.to_xml(df)
+
+print(df)

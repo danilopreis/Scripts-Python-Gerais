@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<Recordset>
+  <row>
+    <id_empresas>1</id_empresas>
+    <Cnpj_empresas>02.948.030/0001-50</Cnpj_empresas>
+    <Cod_Empresas>31</Cod_Empresas>
+    <Sigla_Empresas>ESM</Sigla_Empresas>
+    <Nome_Empresas>ESMALTEC S/A</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_ESM_AR_100_CONTAS_RECEBER</Responsabilidade_Empresas>
+    <User_Serasa>17708</User_Serasa>
+    <Senha_Serasa>serasa@2021</Senha_Serasa>
+    <Email_Analistas>jullianna.honorato@geq.com.br</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+  <row>
+    <id_empresas>2</id_empresas>
+    <Cnpj_empresas>00.048.785/0001-72</Cnpj_empresas>
+    <Cod_Empresas>20</Cod_Empresas>
+    <Sigla_Empresas>IBR</Sigla_Empresas>
+    <Nome_Empresas>INDAIA BRASIL AGUAS MINERAIS LTDA</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_IBR_AR_REMESSA_SERASA_GLOBAL</Responsabilidade_Empresas>
+    <User_Serasa>8439</User_Serasa>
+    <Senha_Serasa>credito@2021</Senha_Serasa>
+    <Email_Analistas>nadja.albuquerque@geq.com.br, lidiane.coelho@geq.com.br,cobranca.bebidas@geq.com.br</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+  <row>
+    <id_empresas>3</id_empresas>
+    <Cnpj_empresas>00.048.785/0001-72</Cnpj_empresas>
+    <Cod_Empresas>22</Cod_Empresas>
+    <Sigla_Empresas>MNB</Sigla_Empresas>
+    <Nome_Empresas>MINALBA ALIMENTOS E BEBIDAS LTDA</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_MNB_AR_REMESSA_SERASA_GLOBAL</Responsabilidade_Empresas>
+    <User_Serasa>21260</User_Serasa>
+    <Senha_Serasa>credito@2021</Senha_Serasa>
+    <Email_Analistas>nadja.albuquerque@geq.com.br, lidiane.coelho@geq.com.br,cobranca.bebidas@geq.com.br</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+  <row>
+    <id_empresas>4</id_empresas>
+    <Cnpj_empresas>06.980.064/0001-82</Cnpj_empresas>
+    <Cod_Empresas>10</Cod_Empresas>
+    <Sigla_Empresas>NGD</Sigla_Empresas>
+    <Nome_Empresas>NACIONAL GAS BUTANO DISTRIBUIDORA LTDA</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_NGD_AR_100_REMESSA_SERASA_GLOBAL</Responsabilidade_Empresas>
+    <User_Serasa>24093</User_Serasa>
+    <Senha_Serasa>serasa@2021</Senha_Serasa>
+    <Email_Analistas>joellma.melo@geq.com.br,</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+  <row>
+    <id_empresas>5</id_empresas>
+    <Cnpj_empresas>09.320.639/0001-29</Cnpj_empresas>
+    <Cod_Empresas>23</Cod_Empresas>
+    <Sigla_Empresas>NAI</Sigla_Empresas>
+    <Nome_Empresas>NACIONAL ARCO-IRIS IND E COM TINTAS LTDA</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_NAI_AR_REMESSA_SERASA_GLOBAL</Responsabilidade_Empresas>
+    <User_Serasa>37571</User_Serasa>
+    <Senha_Serasa>credito@2021</Senha_Serasa>
+    <Email_Analistas>nadja.albuquerque@geq.com.br, lidiane.coelho@geq.com.br,</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+  <row>
+    <id_empresas>6</id_empresas>
+    <Cnpj_empresas>07.209.299/0001-38</Cnpj_empresas>
+    <Cod_Empresas>42</Cod_Empresas>
+    <Sigla_Empresas>EVM</Sigla_Empresas>
+    <Nome_Empresas>EDITORAS VERDES MARES TLDA</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_EVM_AR_100_OP_CONTAS_RECEBER</Responsabilidade_Empresas>
+    <User_Serasa>22101</User_Serasa>
+    <Senha_Serasa>credito@2021</Senha_Serasa>
+    <Email_Analistas>italo.martins@geq.com.br, taianne.coelho@geq.com.br,</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+  <row>
+    <id_empresas>7</id_empresas>
+    <Cnpj_empresas>07.199.656/0001-24</Cnpj_empresas>
+    <Cod_Empresas>40</Cod_Empresas>
+    <Sigla_Empresas>RVM</Sigla_Empresas>
+    <Nome_Empresas>RADIO VERDES MARES LTDA</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_RVM_AR_100_OP_CONTAS_RECEBER</Responsabilidade_Empresas>
+    <User_Serasa>22107</User_Serasa>
+    <Senha_Serasa>credito@2021</Senha_Serasa>
+    <Email_Analistas>italo.martins@geq.com.br, taianne.coelho@geq.com.br,</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+  <row>
+    <id_empresas>8</id_empresas>
+    <Cnpj_empresas>07.199.664/0001-70</Cnpj_empresas>
+    <Cod_Empresas>41</Cod_Empresas>
+    <Sigla_Empresas>TVM</Sigla_Empresas>
+    <Nome_Empresas>TELEVIS&#195;O VERDES MARES LTDA</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_TVM_AR_100_OP_CONTAS_RECEBER</Responsabilidade_Empresas>
+    <User_Serasa>17929</User_Serasa>
+    <Senha_Serasa>credito@2021</Senha_Serasa>
+    <Email_Analistas>italo.martins@geq.com.br, taianne.coelho@geq.com.br,</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+  <row>
+    <id_empresas>9</id_empresas>
+    <Cnpj_empresas>23.493.364/0001-56</Cnpj_empresas>
+    <Cod_Empresas>44</Cod_Empresas>
+    <Sigla_Empresas>TVD</Sigla_Empresas>
+    <Nome_Empresas>TV DIARIO LTDA</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_TVD_AR_100_OP_CONTAS_RECEBER</Responsabilidade_Empresas>
+    <User_Serasa>22111</User_Serasa>
+    <Senha_Serasa>credito@2021</Senha_Serasa>
+    <Email_Analistas>italo.martins@geq.com.br,</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+  <row>
+    <id_empresas>10</id_empresas>
+    <Cnpj_empresas>02.399.894/0001-60</Cnpj_empresas>
+    <Cod_Empresas>45</Cod_Empresas>
+    <Sigla_Empresas>TVN</Sigla_Empresas>
+    <Nome_Empresas>TV NORTE DO CEARA TLDA</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_TVN_AR_100_OP_CONTAS_RECEBER</Responsabilidade_Empresas>
+    <User_Serasa>28601</User_Serasa>
+    <Senha_Serasa>credito@2021</Senha_Serasa>
+    <Email_Analistas>italo.martins@geq.com.br,</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+  <row>
+    <id_empresas>11</id_empresas>
+    <Cnpj_empresas/>
+    <Cod_Empresas>21</Cod_Empresas>
+    <Sigla_Empresas>MID</Sigla_Empresas>
+    <Nome_Empresas>MIDOL</Nome_Empresas>
+    <Responsabilidade_Empresas>GEQ_MID_AR_REMESSA_SERASA_GLOBAL</Responsabilidade_Empresas>
+    <User_Serasa>21261</User_Serasa>
+    <Senha_Serasa>credito@2021</Senha_Serasa>
+    <Email_Analistas>nadja.albuquerque@geq.com.br, lidiane.coelho@geq.com.br,</Email_Analistas>
+    <Relatorio_Exclusao/>
+    <Dt_Relatorio_Exclusao/>
+    <Envio_Inclusao/>
+    <Dt_Envio_Inclusao/>
+  </row>
+</Recordset>

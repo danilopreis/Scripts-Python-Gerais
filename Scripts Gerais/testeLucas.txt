@@ -1,0 +1,30 @@
+import pandas as pd
+import csv
+
+f = open(r'C:\Users\lavieira\Documents\Projects\ScriptsPython\empresas.csv')
+csv_f = csv.reader(f)   
+data = []
+
+for row in csv_f: 
+	data.append(row)
+f.close()
+
+print (data[1:])
+
+def convert_row(row):
+    return """<?xml version="1.0" encoding="us-ascii"?>
+    <Recordset>
+	<Row>%s</Row>
+    <Nome_Empresas>%s</Nome_Empresas>
+    <Cod_Empresas>%s</Cod_Empresas>
+    <Sigla_Empresas>%s</Sigla_Empresas>
+    <Nome_Empresas1>%s</Nome_Empresas1>
+    <Responsabilidade_Empresas>%s</Responsabilidade_Empresas>
+    <User_Serasa>%s</User_Serasa>
+	<Senha_Serasa>%s</Senha_Serasa>
+	<Email_Analistas>%s</Email_Analistas>
+	<Relatorio_Exclusao>%s</Relatorio_Exclusao>
+	<Envio_Inclusao>%s</Envio_Inclusao>
+</Recordset>""" % (row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10])
+
+print ('\n'.join([convert_row(row) for row in data[1:]]))

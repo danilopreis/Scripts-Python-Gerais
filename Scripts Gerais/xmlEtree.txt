@@ -1,0 +1,14 @@
+header = df.columns
+
+root = ET.Element('root')  # Root element
+
+for column in df.columns:
+    entry = ET.SubElement(root, column)  # Adding element
+    for row in df.index:
+        schild = row
+        child = ET.SubElement(entry, schild)  # Adding sub-element
+        child.text = str(df[column][schild])
+
+xml_data = ET.tostring(root)  # binary string
+with open('teste2.xml', 'w') as f:  # Write in file as utf-8
+    f.write(xml_data.decode('utf-8'))

@@ -1,0 +1,12 @@
+id_empresas;Cnpj_empresas;Cod_Empresas;Sigla_Empresas;Nome_Empresas;Responsabilidade_Empresas;User_Serasa;Senha_Serasa;Email_Analistas;Relatorio_Exclusao;Dt_Relatorio_Exclusao;Envio_Inclusao;Dt_Envio_Inclusao
+1;02.948.030/0001-50;31;ESM;ESMALTEC S/A;GEQ_ESM_AR_100_CONTAS_RECEBER;17708;serasa@2021;jullianna.honorato@geq.com.br;;;;
+2;00.048.785/0001-72;20;IBR;INDAIA BRASIL AGUAS MINERAIS LTDA;GEQ_IBR_AR_REMESSA_SERASA_GLOBAL;8439;credito@2021;nadja.albuquerque@geq.com.br, lidiane.coelho@geq.com.br,cobranca.bebidas@geq.com.br;;;;
+3;00.048.785/0001-72;22;MNB;MINALBA ALIMENTOS E BEBIDAS LTDA;GEQ_MNB_AR_REMESSA_SERASA_GLOBAL;21260;credito@2021;nadja.albuquerque@geq.com.br, lidiane.coelho@geq.com.br,cobranca.bebidas@geq.com.br;;;;
+4;06.980.064/0001-82;10;NGD;NACIONAL GAS BUTANO DISTRIBUIDORA LTDA;GEQ_NGD_AR_100_REMESSA_SERASA_GLOBAL;24093;serasa@2021;joellma.melo@geq.com.br,;;;;
+5;09.320.639/0001-29;23;NAI;NACIONAL ARCO-IRIS IND E COM TINTAS LTDA;GEQ_NAI_AR_REMESSA_SERASA_GLOBAL;37571;credito@2021;nadja.albuquerque@geq.com.br, lidiane.coelho@geq.com.br,;;;;
+6;07.209.299/0001-38;42;EVM;EDITORAS VERDES MARES TLDA;GEQ_EVM_AR_100_OP_CONTAS_RECEBER;22101;credito@2021;italo.martins@geq.com.br, taianne.coelho@geq.com.br,;;;;
+7;07.199.656/0001-24;40;RVM;RADIO VERDES MARES LTDA;GEQ_RVM_AR_100_OP_CONTAS_RECEBER;22107;credito@2021;italo.martins@geq.com.br, taianne.coelho@geq.com.br,;;;;
+8;07.199.664/0001-70;41;TVM;TELEVISÃO VERDES MARES LTDA;GEQ_TVM_AR_100_OP_CONTAS_RECEBER;17929;credito@2021;italo.martins@geq.com.br, taianne.coelho@geq.com.br,;;;;
+9;23.493.364/0001-56;44;TVD;TV DIARIO LTDA;GEQ_TVD_AR_100_OP_CONTAS_RECEBER;22111;credito@2021;italo.martins@geq.com.br,;;;;
+10;02.399.894/0001-60;45;TVN;TV NORTE DO CEARA TLDA;GEQ_TVN_AR_100_OP_CONTAS_RECEBER;28601;credito@2021;italo.martins@geq.com.br,;;;;
+11;;21;MID;MIDOL;GEQ_MID_AR_REMESSA_SERASA_GLOBAL;21261;credito@2021;nadja.albuquerque@geq.com.br, lidiane.coelho@geq.com.br,;;;;

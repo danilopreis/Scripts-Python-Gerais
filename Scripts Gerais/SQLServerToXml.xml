@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Recordset>
+  <row>
+    <DepartmentID>1</DepartmentID>
+    <Name>Engineering</Name>
+    <GroupName>Research and Development</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>2</DepartmentID>
+    <Name>Tool Design</Name>
+    <GroupName>Research and Development</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>3</DepartmentID>
+    <Name>Sales</Name>
+    <GroupName>Sales and Marketing</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>4</DepartmentID>
+    <Name>Marketing</Name>
+    <GroupName>Sales and Marketing</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>5</DepartmentID>
+    <Name>Purchasing</Name>
+    <GroupName>Inventory Management</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>6</DepartmentID>
+    <Name>Research and Development</Name>
+    <GroupName>Research and Development</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>7</DepartmentID>
+    <Name>Production</Name>
+    <GroupName>Manufacturing</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>8</DepartmentID>
+    <Name>Production Control</Name>
+    <GroupName>Manufacturing</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>9</DepartmentID>
+    <Name>Human Resources</Name>
+    <GroupName>Executive General and Administration</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>10</DepartmentID>
+    <Name>Finance</Name>
+    <GroupName>Executive General and Administration</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>11</DepartmentID>
+    <Name>Information Services</Name>
+    <GroupName>Executive General and Administration</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>12</DepartmentID>
+    <Name>Document Control</Name>
+    <GroupName>Quality Assurance</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>13</DepartmentID>
+    <Name>Quality Assurance</Name>
+    <GroupName>Quality Assurance</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>14</DepartmentID>
+    <Name>Facilities and Maintenance</Name>
+    <GroupName>Executive General and Administration</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>15</DepartmentID>
+    <Name>Shipping and Receiving</Name>
+    <GroupName>Inventory Management</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+  <row>
+    <DepartmentID>16</DepartmentID>
+    <Name>Executive</Name>
+    <GroupName>Executive General and Administration</GroupName>
+    <ModifiedDate>2008-04-30 00:00:00</ModifiedDate>
+  </row>
+</Recordset>
